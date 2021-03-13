@@ -1,0 +1,9 @@
+Origin: RazoJB8 repo
+Label: RazoJB8 repo
+Suite: stable
+Version: 1.0
+Codename: RazoJB8 repo
+Architectures: iphoneos-arm
+Components: main
+Description: RazoJB8 Cydia Repository
+ 
